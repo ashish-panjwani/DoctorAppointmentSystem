@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+	<Patients>
+		<Patient>
+			<ID>PAT00001</ID>
+			<NAME>ashish</NAME>
+			<ADDRESS>aslcj</ADDRESS>
+			<CONTACT>1234567890</CONTACT>
+			<GENDER>Male</GENDER>
+			<AGE>25</AGE>
+			<HEIGHT>158</HEIGHT>
+			<WEIGHT>60</WEIGHT>
+			<DISEASES>
+				<DISEASE>askjb</DISEASE>
+			</DISEASES>
+			<IMPORTANTINFORMATION>yes</IMPORTANTINFORMATION>
+		</Patient>
+		<Patient>
+			<ID>PAT00002</ID>
+			<NAME>karishma</NAME>
+			<ADDRESS>skjdvn kjdf,nv</ADDRESS>
+			<CONTACT>9876543210</CONTACT>
+			<GENDER>Female</GENDER>
+			<AGE>25</AGE>
+			<HEIGHT>160</HEIGHT>
+			<WEIGHT>60</WEIGHT>
+			<DISEASES>
+				<DISEASE>kdjf</DISEASE>
+				<DISEASE>dlfkjm</DISEASE>
+			</DISEASES>
+			<IMPORTANTINFORMATION>dfkgn</IMPORTANTINFORMATION>
+		</Patient>
+	</Patients>
+	<DOCTORS>
+		<Doctor>
+			<ID>DOC00001</ID>
+			<NAME>doc</NAME>
+			<DEPARTMENT>Accident and Emergency</DEPARTMENT>
+			<SPECIALIST>spec1</SPECIALIST>
+			<TIMINGS>
+				<TIMING>
+					<DAY>0</DAY>
+					<START>09</START>
+					<END>17</END>
+				</TIMING>
+				<TIMING>
+					<DAY>2</DAY>
+					<START>09</START>
+					<END>17</END>
+				</TIMING>
+				<TIMING>
+					<DAY>4</DAY>
+					<START>11</START>
+					<END>17</END>
+				</TIMING>
+			</TIMINGS>
+		</Doctor>
+	</DOCTORS>
+</Data>
